@@ -5,4 +5,6 @@ Python 3.0 and above
 Anaconda Jupyter Notebook
 ## Dataset and set up 
 Preload the tips dataset from the seaborn library:
+```
 data = sns.load_dataset("tips")
+```
