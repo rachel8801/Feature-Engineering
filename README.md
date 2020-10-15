@@ -1,5 +1,5 @@
 # Feature-Engineering
-A practical simple project that anyone can solve and to be more familar with multi variable model that utilizes other features in a dataset.
+A practical project that anyone can solve and to be more familar with multi variable model that utilizes other features in a dataset.
 ## Installation and Requirment
 Python 3.0 and above 
 Anaconda Jupyter Notebook
